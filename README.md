@@ -1,3 +1,3 @@
 # Sowad-Bhuiyan
-This is my 1st website on GitHub
+This is my first Git Repository
 Author - Muhammad Adil
